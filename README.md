@@ -23,6 +23,7 @@ Menüfunktionen:
 
 Filter
 
-URL Filter: alle nachrichten werden auf verbotene URLs überprüft und falls vorhanden wird die nachricht inkl. nachricht gelöscht 
+URL Filter: alle nachrichten werden auf verbotene URLs überprüft und falls vorhanden wird die nachricht inkl. nachricht gelöscht.
+
 BadWords: Überprüft alle nachrichten auf verbotene wörter und falls vorhanden werden diese gelöscht inkl. verwarnung und nachricht an die Admins
 
